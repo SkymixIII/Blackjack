@@ -1,4 +1,4 @@
-This script is a simplified game of blackjack
+This script is a simplified game of blackjack \n
 To run the script open 'src/main.py' and run main.py 
 
 
