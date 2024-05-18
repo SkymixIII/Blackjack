@@ -1,8 +1,6 @@
-this script is a simplified game of blackjack
+This script is a simplified game of blackjack
 
-rules are in RULES.md
-
-to run the script open 'src/main.py' and run main.py 
+To run the script open 'src/main.py' and run main.py 
 
 
 OR
