@@ -5,5 +5,5 @@ rules are in RULES.md
 to run the script open 'src/main.py'
 
 
-Or just run python src/main.py for windows | python3 main.py for linux
+Or just type 'python src/main.py' in cmd for windows | 'python3 src/main.py' for linux
 
